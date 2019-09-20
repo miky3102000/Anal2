@@ -30,6 +30,7 @@ int aleat_num(int inf, int sup)
   if (inf > sup)
     return -1;
 
+  hdbdbdhjsbdjs
   return srand()%(sup - inf + 1) + inf;
 }
 
